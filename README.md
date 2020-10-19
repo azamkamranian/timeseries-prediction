@@ -1,1 +1,1 @@
-# NeuralNetworks_StockPrediction
+# Neural Networks: Stock Prediction
