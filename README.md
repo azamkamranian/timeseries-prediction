@@ -1,1 +1,1 @@
-# Neural Networks: Stock Prediction
+# Supervised Learning: Stock Prediction, TimeSeries
