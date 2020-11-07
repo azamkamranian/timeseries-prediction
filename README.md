@@ -4,7 +4,7 @@ stock data need:
 
 1-normalize data
 
-2- remove noized with variational autoencoder
+2- remove noizes with variational autoencoder
 
 3- do Feature engineering
 
