@@ -2,10 +2,10 @@
 
 stock data need:
 
-1-normalize data
+1- Normalize data
 
-2- remove noizes with variational autoencoder
+2- Remove noizes with variational autoencoder
 
-3- do Feature engineering
+3- Feature engineering
 
-4- feature selection
+4- Feature selection
